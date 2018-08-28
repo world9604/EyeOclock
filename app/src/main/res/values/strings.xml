@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Eye O\'Clock</string>
+    <string name="no_image">No Image</string>
+    <string name="gallery">Gallery</string>
+    <string name="diagnosis">Diagnosis</string>
+    <string name="filming">Filming</string>
+    <string name="result_text">결과</string>
+    <string name="label_result">결과 라벨</string>
+    <string name="percent_result">결과 퍼센트</string>
+</resources>
